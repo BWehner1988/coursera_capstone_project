@@ -1,5 +1,5 @@
 Introduction
-Currently, in most rural areas of Souther Bavaria, Germany, young people are mostly not staying at the smaller cities, 
+Currently, in most rural areas of Southern Bavaria, Germany, young people are mostly not staying at the smaller cities, 
 but want to move to the larger cities like Munich, Ingolstadt or Augsburg. This is also the case for young families. 
 (I define young families as families, where recently a child was born) Unfortunately, the decision where to move to in 
 larger cities is dependent of a number of personal preferences. 
@@ -19,6 +19,8 @@ to based on several clusters.
 Data
 To reach my goal, I will collect publicly available data from various sources. 
 -	First of all, to visualize Munich, I will use the GeoJSON file provided by https://www.suche-postleitzahl.org/downloads/. 
--	Additionally, I will collect data about the crime rates in Munich. Those are available for the year 2017 at the website of the city council www.muenchen.de. 
--	Regarding the house prices, I refer to https://suedbayerische-immobilien.de/Immobilienpreise-Muenchen, which list the price per square meter in Euro.
+-	Additionally, I will collect data about the crime rates in Munich. Those are available for the year 2017 at the website 
+  of the city council www.muenchen.de. 
+-	Regarding the house prices, I refer to https://suedbayerische-immobilien.de/Immobilienpreise-Muenchen, which list the 
+  price per square meter in Euro.
 -	Finally, to collect data about the schools in a district, I use the foursquare API. Foursquare provides the names of, e.g., elementary schools (“Grundschulen”).
