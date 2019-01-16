@@ -1,8 +1,20 @@
 Introduction
-Currently, in most rural areas of Souther Bavaria, Germany, young people are mostly not staying at the smaller cities, but want to move to the larger cities like Munich, Ingolstadt or Augsburg. This is also the case for young families. (I define young families as families, where recently a child was born) Unfortunately, the decision where to move to in larger cities is dependent of a number of personal preferences. 
-Especially for young families, particular preferences matter. Among them are the crime rate of a certrain district of a city, the number of schools in a certain district and especially the real estate prices. The latter point is important due to the fact that often, in young families, only one parent is working while the other is taking care of the child or children.
-In the upcoming project, I will refer to the city of Munich and analyze its 25 main districts. In particular, I will search for clusters of districts based on the three aforementioned preferences: number of schools in a district, real estate prices of a district and the crime rate of a district.
-With my analysis, I provide a basis for young families, which want to move to Munich, to decide to which district to move to based on several clusters.
+Currently, in most rural areas of Souther Bavaria, Germany, young people are mostly not staying at the smaller cities, 
+but want to move to the larger cities like Munich, Ingolstadt or Augsburg. This is also the case for young families. 
+(I define young families as families, where recently a child was born) Unfortunately, the decision where to move to in 
+larger cities is dependent of a number of personal preferences. 
+Especially for young families, particular preferences matter. Among them are the crime rate of a certrain district of a 
+city, the number of schools in a certain district and especially the real estate prices. The latter point is important 
+due to the fact that often, in young families, only one parent is working while the other is taking care of the child 
+or children.
+
+In the upcoming project, I will refer to the city of Munich and analyze its 25 main districts. In particular, I will search 
+for clusters of districts based on the three aforementioned preferences: number of schools in a district, real estate prices 
+of a district and the crime rate of a district.
+
+With my analysis, I provide a basis for young families, which want to move to Munich, to decide to which district to move 
+to based on several clusters.
+
 
 Data
 To reach my goal, I will collect publicly available data from various sources. 
